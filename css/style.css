@@ -1,26 +1,20 @@
-/*font family*/
 @font-face {
   font-family: "shabnamlight";
-  src: url("../fonts/Shabnam-Light-FD.eot"),
-  url("../fonts/Shabnam-Light-FD.woff") format("woff"),
-  url("../fonts/Shabnam-Light-FD.ttf") format("truetype");
+  src: url("../fonts/Shabnam-Light-FD.eot"), url("../fonts/Shabnam-Light-FD.woff") format("woff"), url("../fonts/Shabnam-Light-FD.ttf") format("truetype");
   font-weight: normal;
   font-style: normal;
 }
+
 @font-face {
   font-family: "Shabnam-Bold";
-  src: url("../fonts/Shabnam-Bold-FD.eot"),
-  url("../fonts/Shabnam-Bold-FD.woff") format("woff"),
-  url("../fonts/Shabnam-Bold-FD.ttf") format("truetype");
+  src: url("../fonts/Shabnam-Bold-FD.eot"), url("../fonts/Shabnam-Bold-FD.woff") format("woff"), url("../fonts/Shabnam-Bold-FD.ttf") format("truetype");
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: "Shabnam-FD";
-  src: url("../fonts/Shabnam-FD.eot"),
-  url("../fonts/Shabnam-FD.woff") format("woff"),
-  url("../fonts/Shabnam-FD.ttf") format("truetype");
+  src: url("../fonts/Shabnam-FD.eot"), url("../fonts/Shabnam-FD.woff") format("woff"), url("../fonts/Shabnam-FD.ttf") format("truetype");
   font-weight: normal;
   font-style: normal;
 }
@@ -40,7 +34,6 @@ p {
 a {
   color: #fed136;
   font-family: "Shabnam-FD";
-
 }
 
 a:hover {
@@ -51,27 +44,27 @@ a:hover {
   color: #fed136 !important;
 }
 
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
+h1, h2, h3, h4, h5, h6 {
   font-family: "Shabnam-Bold";
   font-weight: 700;
 }
-h1{
-	font-size:1.4em;
+
+h1 {
+  font-size: 1.4em;
 }
-h2{
-	font-size:1.2em;
+
+h2 {
+  font-size: 1.2em;
 }
- h3 {
-    font-size: 1em;
+
+h3 {
+  font-size: 1em;
 }
- h4 {
-    font-size: 0.9em;
+
+h4 {
+  font-size: 0.9em;
 }
+
 .page-section {
   padding: 50px 0;
 }
@@ -86,7 +79,6 @@ h2{
   font-size: 16px;
   margin-bottom: 75px;
   text-transform: none;
-
 }
 
 @media (min-width: 768px) {
@@ -153,18 +145,19 @@ img::-moz-selection {
   color: white;
   border: 0;
   outline-style: none;
-  background-color:transparent;
+  background-color: transparent;
 }
- .display-off{
+
+.display-off {
   display: none;
 }
-.menu-icon-r.display-on{
+
+.menu-icon-r.display-on {
   display: block!important;
 }
 
 #mainNav .navbar-brand {
   color: #fed136;
-
 }
 
 #mainNav .navbar-brand.active, #mainNav .navbar-brand:active, #mainNav .navbar-brand:focus, #mainNav .navbar-brand:hover {
@@ -184,9 +177,11 @@ img::-moz-selection {
 #mainNav .navbar-nav .nav-item .nav-link.active, #mainNav .navbar-nav .nav-item .nav-link:hover {
   color: #fed136;
 }
+
 .navbar-brand {
-    margin: 0 auto;
+  margin: 0 auto;
 }
+
 @media (min-width: 992px) {
   #mainNav {
     transition: padding-top 0.3s, padding-bottom 0.3s;
@@ -219,7 +214,7 @@ header.masthead {
   background-attachment: scroll;
   background-position: center center;
   background-size: cover;
-  background-color:#212529;
+  background-color: #212529;
 }
 
 header.masthead .intro-text {
@@ -239,15 +234,17 @@ header.masthead .intro-text .intro-heading {
   font-weight: 700;
   line-height: 50px;
   margin-bottom: 25px;
-
 }
-.img-header{
+
+.img-header {
   max-width: 95px;
 }
+
 .img-thumbnail {
-    background-color: transparent!important;
-    border: none!important
+  background-color: transparent!important;
+  border: none!important
 }
+
 @media (min-width: 768px) {
   header.masthead .intro-text {
     padding-top: 140px;
@@ -264,7 +261,6 @@ header.masthead .intro-text .intro-heading {
     font-weight: 700;
     line-height: 75px;
     margin-bottom: 50px;
-
   }
 }
 
@@ -272,35 +268,41 @@ header.masthead .intro-text .intro-heading {
   margin: 15px 0;
   text-transform: none;
 }
-.card-title{
+
+.card-title {
   text-align: right;
 }
+
 .page-footer {
   padding: 25px 0;
-  background-color:#212529;
+  background-color: #212529;
   text-align: justify;
 }
-.page-footer p,
-.page-footer a{
-color: #fff;
 
+.page-footer p, .page-footer a {
+  color: #fff;
 }
-.page-footer .footer-link{
-list-style: none;
-    padding: 0;
-    margin: 0;
+
+.page-footer .footer-link {
+  list-style: none;
+  padding: 0;
+  margin: 0;
 }
-.page-footer .footer-link li{
+
+.page-footer .footer-link li {
   text-align: right;
-  color:#fff;
-  }
-.page-footer h6{
-  color:#fff;
+  color: #fff;
+}
+
+.page-footer h6 {
+  color: #fff;
   text-align: right;
 }
-.deep-purple{
+
+.deep-purple {
   background-color: #fff;
 }
+
 .footer span.copyright {
   font-size: 90%;
   line-height: 40px;
@@ -334,33 +336,46 @@ ul.social-buttons li a {
 ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons li a:hover {
   background-color: #fed136;
 }
-.footer-copyright span{
+
+.footer-copyright span {
   color: white;
 }
-.footer-copyright a{
+
+.footer-copyright a {
   color: #fed136;
 }
 
-
-.quickLinks{    left: 0;
+.quickLinks {
+  left: 0;
   position: fixed;
   top: 300px;
   margin: 0;
-  z-index: 9;}
+  z-index: 9;
+}
 
-.quickIcon  { line-height: 45px;
+.quickIcon {
+  line-height: 45px;
   position: relative;
   text-align: center;
   cursor: pointer;
-  background-color:#dc3545;
-  width:45px;
-  height:45px;
-  display:inline-block;
-  border-radius:8%;
+  background-color: #dc3545;
+  width: 45px;
+  height: 45px;
+  display: inline-block;
+  border-radius: 8%;
 }
-.quickIcon img{width:32px;height:32px;}
-.quickLinks a,  .quickLinks p{position:relative;    margin-bottom: 5px}
-.quickLinks a .quickTitle ,    .quickLinks p .quickTitle  {
+
+.quickIcon img {
+  width: 32px;
+  height: 32px;
+}
+
+.quickLinks a, .quickLinks p {
+  position: relative;
+  margin-bottom: 5px
+}
+
+.quickLinks a .quickTitle, .quickLinks p .quickTitle {
   border-radius: 3px;
   line-height: 24px;
   left: -300px;
@@ -374,15 +389,16 @@ ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons l
   font-size: 13px;
   display: block;
   width: 220px;
-  text-align:center;
-  color:#fff;
+  text-align: center;
+  color: #fff;
 }
-.quickLinks a:hover .quickTitle ,
-.quickLinks p:hover .quickTitle {
+
+.quickLinks a:hover .quickTitle, .quickLinks p:hover .quickTitle {
   left: 120%;
   opacity: 1;
 }
-.quickLinks a span:before ,.quickLinks p span:before  {
+
+.quickLinks a span:before, .quickLinks p span:before {
   content: "";
   display: block;
   height: 8px;
@@ -392,32 +408,35 @@ ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons l
   position: absolute;
   top: 50%;
   transform: rotate(45deg);
-
 }
-.quickLinks .quickBox .quickTitle , .quickBox  .quickItem:hover  .quickIcon ,.quickLinks .quickBox  .quickTitle:before  {background-color:#420100;}
 
-.fix-footer{
+.quickLinks .quickBox .quickTitle, .quickBox .quickItem:hover .quickIcon, .quickLinks .quickBox .quickTitle:before {
+  background-color: #420100;
+}
+
+.fix-footer {
   background-color: #dc3545;
   color: #fff;
   display: none;
   position: fixed;
   bottom: 0px;
   width: 100%;
-      z-index: 2;
+  z-index: 2;
+}
 
-}
 .modal-header .close {
-    margin: -15px 0!important;
+  margin: -15px 0!important;
 }
+
 .table .thead-dark th {
-    color: #fff;
-    background-color: #dc3545;
-    border-color: #dc3545;
-	 text-align: center;
+  color: #fff;
+  background-color: #dc3545;
+  border-color: #dc3545;
+  text-align: center;
 }
+
 .table {
- text-align: center;
-   
+  text-align: center;
 }
 
 #portfolio .portfolio-item {
@@ -438,8 +457,8 @@ ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons l
   width: 100%;
   height: 100%;
   transition: all ease 0.5s;
-    background: #dc3545;
-    opacity: 0;
+  background: #dc3545;
+  opacity: 0;
 }
 
 #portfolio .portfolio-item .portfolio-link .portfolio-hover:hover {
@@ -461,8 +480,7 @@ ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons l
   margin-top: -12px;
 }
 
-#portfolio .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content h3,
-#portfolio .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content h4 {
+#portfolio .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content h3, #portfolio .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content h4 {
   margin: 0;
 }
 
@@ -482,73 +500,68 @@ ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons l
 #portfolio .portfolio-item .portfolio-caption p {
   font-size: 16px;
   margin: 0;
- 
 }
 
 #portfolio * {
   z-index: 2;
 }
+
 #portfolio .img-fluid {
-    width: 100%!important;
-    height: auto;
+  width: 100%!important;
+  height: auto;
 }
+
 @media (min-width: 767px) {
   #portfolio .portfolio-item {
     margin: 0 0 30px;
   }
 }
 
-
-
 @media (max-width:991px) {
   .navbar-nav {
     text-align: center;
     padding: 0;
   }
-  .quickLinks{
+  .quickLinks {
     display: none;
   }
-
-  .fix-footer{
+  .fix-footer {
     display: block;
   }
- .hidden-xs{
+  .hidden-xs {
     display: none;
   }
-.img-header {
+  .img-header {
     max-width: 85px;
+  }
+  header.masthead .intro-text {
+    padding-top: 100px;
+    padding-bottom: 80px;
+  }
+  #portfolio .portfolio-item .portfolio-caption {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 12px 0;
+    text-align: center;
+    background-color: #fff;
+  }
+  #portfolio .portfolio-item .portfolio-caption h4 {
+    font-size: 0.8em;
+  }
+  .navbar-toggler[aria-expanded='true'] .menu-icon-n {
+    display: none;
+  }
+  .navbar-toggler[aria-expanded='true'] .menu-icon-r {
+    display: block;
+  }
+  .navbar-toggler[aria-expanded='false'] .menu-icon-n {
+    display: block;
+  }
+  .navbar-toggler[aria-expanded='false'] .menu-icon-r {
+    display: none;
+  }
 }
-header.masthead .intro-text {
-  padding-top: 100px;
-  padding-bottom: 80px;
-}
-#portfolio .portfolio-item .portfolio-caption {
-  max-width: 400px;
-  margin: 0 auto;
-  padding: 12px 0;
-  text-align: center;
-  background-color: #fff;
-}
-#portfolio .portfolio-item .portfolio-caption h4 {
-  font-size: 0.8em;
-}
-
-
-.navbar-toggler[aria-expanded='true'] .menu-icon-n{
- 
-    display:none;
-}
-
-.navbar-toggler[aria-expanded='true'] .menu-icon-r{
-  display:block;
- 
-}
-.navbar-toggler[aria-expanded='false'] .menu-icon-n{
- display:block;
-}
-
-.navbar-toggler[aria-expanded='false'] .menu-icon-r{
-   display:none;
-}
-}
+.alink{
+  color:#dc3545 ;
+  text-decoration: none;
 }
