@@ -1,5 +1,5 @@
 (function($) {
-  "use strict"; // Start of use strict
+  "use strict";
 
   // Smooth scrolling using jQuery easing
   $('a.js-scroll-trigger[href*="#"]:not([href="#"])').click(function() {
@@ -20,13 +20,6 @@
     $('.navbar-collapse').collapse('hide');
   });
   
- // $('.navbar-toggler').click(function() {
-    //$('.menu-icon-r').addClass('display-on');
-    //$('.menu-icon-n').addClass('display-off');
- // });
- 
-
- 
   
   // Activate scrollspy to add active class to navbar items on scroll
   $('body').scrollspy({
