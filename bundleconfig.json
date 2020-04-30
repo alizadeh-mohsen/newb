@@ -4,5 +4,17 @@
     "inputFiles": [
       "Cars/Hyundai.html"
     ]
+  },
+  {
+    "outputFileName": "js/custom.min.js",
+    "inputFiles": [
+      "js/custom.js"
+    ]
+  },
+  {
+    "outputFileName": "vendor/bootstrap/css/bootstrap.min.css",
+    "inputFiles": [
+      "vendor/bootstrap/css/bootstrap.css"
+    ]
   }
 ]
