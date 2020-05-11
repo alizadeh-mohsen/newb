@@ -358,5 +358,11 @@
     "inputFiles": [
       "Cars/Wolks.html"
     ]
+  },
+  {
+    "outputFileName": "Aco.min.html",
+    "inputFiles": [
+      "Aco.html"
+    ]
   }
 ]
