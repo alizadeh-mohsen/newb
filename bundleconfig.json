@@ -96,12 +96,6 @@
     ]
   },
   {
-    "outputFileName": "SepahanBattery.min.html",
-    "inputFiles": [
-      "SepahanBattery.html"
-    ]
-  },
-  {
     "outputFileName": "Solit.min.html",
     "inputFiles": [
       "Solit.html"
@@ -369,6 +363,12 @@
     "outputFileName": "css/style.min.css",
     "inputFiles": [
       "css/style.css"
+    ]
+  },
+  {
+    "outputFileName": "SepahanBattery.min.html",
+    "inputFiles": [
+      "SepahanBattery.html"
     ]
   }
 ]
