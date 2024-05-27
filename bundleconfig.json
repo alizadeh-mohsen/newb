@@ -370,5 +370,55 @@
     "inputFiles": [
       "SepahanBattery.html"
     ]
+  },
+  {
+    "outputFileName": "PasargadSanat.min.html",
+    "inputFiles": [
+      "PasargadSanat.html"
+    ]
+  },
+  {
+    "outputFileName": "Company/شرکت-آذرباتری.min.html",
+    "inputFiles": [
+      "Company/شرکت-آذرباتری.html"
+
+    ]
+  },
+  {
+    "outputFileName": "Company/شرکت-باتری-آکو.min.html",
+    "inputFiles": [
+      "Company/شرکت-باتری-آکو.html"
+
+    ]
+  },
+  {
+    "outputFileName": "Company/شرکت-باتری-برنا.min.html",
+    "inputFiles": [
+      "Company/شرکت-باتری-برنا.html"
+    ]
+  },
+  {
+    "outputFileName": "Company/شرکت-نیرو-گستران-خراسان.min.html",
+    "inputFiles": [
+      "Company/شرکت-نیرو-گستران-خراسان.html"
+    ]
+  },
+  {
+    "outputFileName": "Company/شرکت-صبا-باتری.min.html",
+    "inputFiles": [
+      "Company/شرکت-صبا-باتری.html"
+    ]
+  },
+  {
+    "outputFileName": "Company/شرکت-سپاهان.min.html",
+    "inputFiles": [
+      "Company/شرکت-سپاهان.html"
+    ]
+  },
+  {
+    "outputFileName": "Company/شرکت-پاسارگاد-صنعت.min.html",
+    "inputFiles": [
+      "Company/شرکت-پاسارگاد-صنعت.html"
+    ]
   }
 ]

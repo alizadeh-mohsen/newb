@@ -1,297 +1,311 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+<?xml version="1.0" encoding="utf-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<!--  created with sitemap generator https://octopus.do  -->
 
-
-<url>
-  <loc>https://battri.com/</loc>
-  <lastmod>2020-07-23T15:35:20+00:00</lastmod>
-  <priority>1.00</priority>
-</url>
-<url>
-  <loc>https://battri.com/price.html</loc>
-  <lastmod>2021-02-06T17:28:00+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://battri.com/UPS.html</loc>
-  <lastmod>2020-12-27T04:59:12+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://battri.com/SuitableBattery.html</loc>
-  <lastmod>2020-07-23T15:07:05+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://battri.com/UsefulInfo.html</loc>
-  <lastmod>2020-07-24T10:11:10+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://battri.com/AboutUs.html</loc>
-  <lastmod>2020-07-23T15:23:20+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://battri.com/SepahanBattery.html</loc>
-  <lastmod>2021-02-26T19:40:22+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://battri.com/Aco.html</loc>
-  <lastmod>2021-02-26T19:05:42+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://battri.com/saba.html</loc>
-  <lastmod>2021-02-26T18:57:27+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://battri.com/NirooGostaran.html</loc>
-  <lastmod>2021-02-26T19:40:20+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://battri.com/AzarBattery.html</loc>
-  <lastmod>2021-02-26T19:36:39+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://battri.com/Borna-Battery.html</loc>
-  <lastmod>2021-02-26T19:39:42+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://battri.com/Global.html</loc>
-  <lastmod>2020-07-23T15:04:50+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://battri.com/Delkor.html</loc>
-  <lastmod>2020-07-23T15:04:42+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://battri.com/index.html</loc>
-  <lastmod>2020-07-23T15:35:20+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://battri.com/Saba.html</loc>
-  <lastmod>2021-02-26T18:57:27+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://battri.com/Aras.html</loc>
-  <lastmod>2021-02-06T17:23:44+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://battri.com/Solit.html</loc>
-  <lastmod>2020-07-23T15:06:52+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://battri.com/Cars/Baic.html</loc>
-  <lastmod>2020-07-24T10:38:43+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://battri.com/Cars/benz.html</loc>
-  <lastmod>2020-07-23T15:23:21+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://battri.com/Cars/Bestern.html</loc>
-  <lastmod>2020-07-23T14:57:23+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://battri.com/Cars/BMW.html</loc>
-  <lastmod>2020-07-23T14:57:40+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://battri.com/Cars/Brilliance.html</loc>
-  <lastmod>2020-07-24T10:42:32+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://battri.com/Cars/BYD.html</loc>
-  <lastmod>2020-07-23T14:58:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://battri.com/Cars/Changan.html</loc>
-  <lastmod>2020-07-23T14:58:09+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://battri.com/Cars/chery.html</loc>
-  <lastmod>2020-07-23T14:58:19+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://battri.com/Cars/citroen.html</loc>
-  <lastmod>2020-07-23T14:58:28+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://battri.com/Cars/daewoo.html</loc>
-  <lastmod>2020-07-24T10:43:39+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://battri.com/Cars/Dongfeng.html</loc>
-  <lastmod>2020-07-23T14:58:43+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://battri.com/Cars/fiat.html</loc>
-  <lastmod>2020-07-23T14:58:52+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://battri.com/Cars/geely.html</loc>
-  <lastmod>2020-07-23T14:59:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://battri.com/Cars/Greatwall.html</loc>
-  <lastmod>2020-07-23T14:59:06+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://battri.com/Cars/Haima.html</loc>
-  <lastmod>2020-07-24T10:44:28+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://battri.com/Cars/Honda.html</loc>
-  <lastmod>2020-07-23T14:59:23+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://battri.com/Cars/hyundai.html</loc>
-  <lastmod>2020-07-23T14:59:31+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://battri.com/Cars/jac.html</loc>
-  <lastmod>2020-07-23T14:59:44+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://battri.com/Cars/kia.html</loc>
-  <lastmod>2020-07-24T10:50:07+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://battri.com/Cars/lexus.html</loc>
-  <lastmod>2020-07-24T10:51:15+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://battri.com/Cars/lifan.html</loc>
-  <lastmod>2020-07-23T15:00:06+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://battri.com/Cars/mazda.html</loc>
-  <lastmod>2020-07-24T10:55:42+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://battri.com/Cars/mg.html</loc>
-  <lastmod>2020-07-23T15:00:20+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://battri.com/Cars/Mitsobishi.html</loc>
-  <lastmod>2020-07-23T15:00:30+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://battri.com/Cars/MVM.html</loc>
-  <lastmod>2020-07-23T15:00:38+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://battri.com/Cars/Nissan.html</loc>
-  <lastmod>2020-07-23T15:00:47+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://battri.com/Cars/Opel.html</loc>
-  <lastmod>2020-07-23T15:01:01+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://battri.com/Cars/Pegeout.html</loc>
-  <lastmod>2020-07-24T11:01:32+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://battri.com/Cars/Pride.html</loc>
-  <lastmod>2020-07-23T15:01:20+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://battri.com/Cars/Proton.html</loc>
-  <lastmod>2020-07-23T15:01:28+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://battri.com/Cars/renault.html</loc>
-  <lastmod>2020-07-24T11:01:31+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://battri.com/Cars/Samand.html</loc>
-  <lastmod>2020-07-23T15:01:47+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://battri.com/Cars/Ssangyang.html</loc>
-  <lastmod>2020-07-23T15:01:54+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://battri.com/Cars/Suzuki.html</loc>
-  <lastmod>2020-07-24T11:03:56+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://battri.com/Cars/toyota.html</loc>
-  <lastmod>2020-07-23T15:02:09+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://battri.com/Cars/wolks.html</loc>
-  <lastmod>2020-07-24T11:05:26+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://battri.com/Recharge.html</loc>
-  <lastmod>2020-07-23T15:05:47+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://battri.com/Maintenance.html</loc>
-  <lastmod>2020-07-23T15:05:13+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://battri.com/BatteryFaults.html</loc>
-  <lastmod>2020-07-23T15:04:10+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-
-
+    <url>
+        <loc>https://battri.com</loc>
+        <lastmod>2024-05-27</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://battri.com/price.html</loc>
+        <lastmod>2024-05-27</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://battri.com/SuitableBattery.html</loc>
+        <lastmod>2024-05-27</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://battri.com/AboutUs.html</loc>
+        <lastmod>2024-05-27</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://battri.com/SepahanBattery.html</loc>
+        <lastmod>2024-05-27</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://battri.com/Aco.html</loc>
+        <lastmod>2024-05-27</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://battri.com/saba.html</loc>
+        <lastmod>2024-05-27</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://battri.com/NirooGostaran.html</loc>
+        <lastmod>2024-05-27</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://battri.com/Borna-Battery.html</loc>
+        <lastmod>2024-05-27</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://battri.com/PasargadSanat.html</loc>
+        <lastmod>2024-05-27</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://battri.com/Price.html</loc>
+        <lastmod>2024-05-27</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://battri.com/UPS.html</loc>
+        <lastmod>2024-05-27</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://battri.com/AzarBattery.html</loc>
+        <lastmod>2024-05-27</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://battri.com/Delkor.html</loc>
+        <lastmod>2024-05-27</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://battri.com/Solit.html</loc>
+        <lastmod>2024-05-27</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://battri.com/Cars/benz.html</loc>
+        <lastmod>2024-05-27</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://battri.com/Cars/Bestern.html</loc>
+        <lastmod>2024-05-27</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://battri.com/Cars/BMW.html</loc>
+        <lastmod>2024-05-27</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://battri.com/Cars/Brilliance.html</loc>
+        <lastmod>2024-05-27</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://battri.com/Cars/BYD.html</loc>
+        <lastmod>2024-05-27</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://battri.com/Cars/Changan.html</loc>
+        <lastmod>2024-05-27</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://battri.com/Cars/Dongfeng.html</loc>
+        <lastmod>2024-05-27</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://battri.com/Cars/fiat.html</loc>
+        <lastmod>2024-05-27</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://battri.com/Cars/Haima.html</loc>
+        <lastmod>2024-05-27</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://battri.com/Cars/Honda.html</loc>
+        <lastmod>2024-05-27</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://battri.com/Cars/hyundai.html</loc>
+        <lastmod>2024-05-27</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://battri.com/Cars/jac.html</loc>
+        <lastmod>2024-05-27</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://battri.com/Cars/kia.html</loc>
+        <lastmod>2024-05-27</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://battri.com/Cars/lexus.html</loc>
+        <lastmod>2024-05-27</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://battri.com/Cars/lifan.html</loc>
+        <lastmod>2024-05-27</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://battri.com/Cars/mazda.html</loc>
+        <lastmod>2024-05-27</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://battri.com/Cars/mg.html</loc>
+        <lastmod>2024-05-27</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://battri.com/Cars/Mitsobishi.html</loc>
+        <lastmod>2024-05-27</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://battri.com/Cars/MVM.html</loc>
+        <lastmod>2024-05-27</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://battri.com/Cars/Nissan.html</loc>
+        <lastmod>2024-05-27</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://battri.com/Cars/Opel.html</loc>
+        <lastmod>2024-05-27</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://battri.com/Cars/Pride.html</loc>
+        <lastmod>2024-05-27</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://battri.com/Cars/Proton.html</loc>
+        <lastmod>2024-05-27</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://battri.com/Cars/renault.html</loc>
+        <lastmod>2024-05-27</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://battri.com/Cars/Samand.html</loc>
+        <lastmod>2024-05-27</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://battri.com/Cars/Ssangyang.html</loc>
+        <lastmod>2024-05-27</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://battri.com/Cars/wolks.html</loc>
+        <lastmod>2024-05-27</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://battri.com/Cars/chery.html</loc>
+        <lastmod>2024-05-27</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://battri.com/Cars/citroen.html</loc>
+        <lastmod>2024-05-27</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://battri.com/Cars/daewoo.html</loc>
+        <lastmod>2024-05-27</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://battri.com/Cars/Greatwall.html</loc>
+        <lastmod>2024-05-27</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://battri.com/Cars/Pegeout.html</loc>
+        <lastmod>2024-05-27</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://battri.com/index.html</loc>
+        <lastmod>2024-05-27</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://battri.com/Saba.html</loc>
+        <lastmod>2024-05-27</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://battri.com/Aras.html</loc>
+        <lastmod>2024-05-27</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://battri.com/Global.html</loc>
+        <lastmod>2024-05-27</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
 </urlset>
