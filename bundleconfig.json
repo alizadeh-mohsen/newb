@@ -381,14 +381,12 @@
     "outputFileName": "Company/شرکت-آذرباتری.min.html",
     "inputFiles": [
       "Company/شرکت-آذرباتری.html"
-
     ]
   },
   {
     "outputFileName": "Company/شرکت-باتری-آکو.min.html",
     "inputFiles": [
       "Company/شرکت-باتری-آکو.html"
-
     ]
   },
   {
@@ -419,6 +417,12 @@
     "outputFileName": "Company/شرکت-پاسارگاد-صنعت.min.html",
     "inputFiles": [
       "Company/شرکت-پاسارگاد-صنعت.html"
+    ]
+  },
+  {
+    "outputFileName": "Fidar.min.html",
+    "inputFiles": [
+      "Fidar.html"
     ]
   }
 ]
