@@ -422,7 +422,25 @@
   {
     "outputFileName": "Fidar.min.html",
     "inputFiles": [
-      "Fidar.html"
+      "Vistabattery.html"
+    ]
+  },
+  {
+    "outputFileName": "Company/شرکت ویستا الکتریک رایکا.min.html",
+    "inputFiles": [
+      "Company/شرکت ویستا الکتریک رایکا.html"
+    ]
+  },
+  {
+    "outputFileName": "Company/شرکت-ویستا-الکتریک-رایکا.min.html",
+    "inputFiles": [
+      "Company/شرکت-ویستا-الکتریک-رایکا.html"
+    ]
+  },
+  {
+    "outputFileName": "Vistabattery.min.html",
+    "inputFiles": [
+      "Vistabattery.html"
     ]
   }
 ]
