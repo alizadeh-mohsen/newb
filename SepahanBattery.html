@@ -86,7 +86,7 @@
                     <table class="table table-striped table-bordered font-weight-bold">
                         <thead class="bg-primary text-light">
                             <tr>
-                                <th scope="col">به روز رسانی ۱۴۰۳/۰7/۲6</th>
+                                <th scope="col">به روز رسانی <span id="emrooz"></span></th>
                                 <th scope="col">اوربیتال</th>
                                 <th scope="col">سوزوکی</th>
                             </tr>
@@ -327,7 +327,11 @@
     <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
     <script>(function (n) { "use strict"; n('a.js-scroll-trigger[href*="#"]:not([href="#"])').click(function () { if (location.pathname.replace(/^\//, "") == this.pathname.replace(/^\//, "") && location.hostname == this.hostname) { var t = n(this.hash); if (t = t.length ? t : n("[name=" + this.hash.slice(1) + "]"), t.length) return n("html, body").animate({ scrollTop: t.offset().top - 54 }, 1e3, "easeInOutExpo"), !1 } }); n(".js-scroll-trigger").click(function () { n(".navbar-collapse").collapse("hide") }); n("body").scrollspy({ target: "#mainNav", offset: 56 }); var t = function () { n("#mainNav").offset().top > 100 ? n("#mainNav").addClass("navbar-shrink") : n("#mainNav").removeClass("navbar-shrink") }; t(); n(window).scroll(t) })(jQuery)</script>
     <script src="vendor/jquery-easing/jquery.easing.min.js"></script>
-
+    <script>
+        const today = new Date();
+        const persianDateString = new Intl.DateTimeFormat('fa-IR').format(today)
+        document.getElementById('emrooz').textContent = persianDateString;
+    </script>
 
 </body>
 </html>
