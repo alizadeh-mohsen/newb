@@ -1,0 +1,147 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>User Information Form</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.2/css/bootstrap.min.css">
+</head>
+<body>
+    <div class="container mt-5">
+        <h2>User Information Form</h2>
+        <form id="userForm">
+            <div class="form-group">
+                <label for="userName">User Name</label>
+                <input type="text" class="form-control" id="userName" placeholder="Enter your name" required>
+            </div>
+            <div class="form-group">
+                <label for="userPhone">User Phone</label>
+                <input type="tel" class="form-control" id="userPhone" placeholder="Enter your phone number" required>
+            </div>
+            <div class="form-group">
+                <label for="orderDate">Order Date</label>
+                <input type="date" class="form-control" id="orderDate" required>
+            </div>
+            <button type="submit" class="btn btn-primary">Submit</button>
+        </form>
+    </div>
+
+    <p>
+        <a href="https://wa.me/989123960741?text=I%20am%20interested%20in%20your%20car%20for%20sale">SEND</a>
+    </p>
+
+
+    <script>
+    document.getElementById('userForm').addEventListener('submit', function (event) {
+            event.preventDefault();
+            var userName = document.getElementById('userName').value;
+            var userPhone = document.getElementById('userPhone').value;
+            var orderDate = document.getElementById('orderDate').value;
+
+            var message = `User Name: ${userName}%0AUser Phone: ${userPhone}%0AOrder Date: ${orderDate}`;
+            var whatsappNumber = '+447932742686'; // Replace with the actual WhatsApp number
+
+            var whatsappLink = `https://wa.me/${whatsappNumber}?text=${message}`;
+            window.open(whatsappLink, '_blank');
+        });</script>
+
+
+    <script>
+        $(function () {
+
+            $("#result").hide();
+            $("#spinner").hide();
+            $("#manual").hide();
+
+            var urlParams = new URLSearchParams(window.location.search);
+            let phoneFromQueryString = urlParams.get('m');
+
+            $("button").on("click", (function () {
+                $("#result").empty();
+                let phoneFromInput = $("input").val().trim();
+
+                if (phoneFromInput.length === 0 || phoneFromInput.tr === 0) {
+                    $("#result").show().append('<span class="text-danger">لطفا شماره موبایل خود را وارد نمایید<span class="text-danger"></span>');
+                    return;
+                }
+
+                if (phoneFromInput.startsWith("0") == false) {
+                    phoneFromInput = "0" + phoneFromInput;
+
+                }
+                getCustomer(phoneFromInput);
+                $("#manual").hide();
+            }));
+
+
+            if (phoneFromQueryString == null)
+                $("#manual").show();
+            else
+                getCustomer(phoneFromQueryString);
+
+
+
+        });
+        function getCustomer(phone) {
+            $.ajax({
+                type: 'GET',
+                url: "https://batterypeyk-vip.ir/api/customers/" + phone,
+
+                data: { value: 1 },
+                dataType: 'json',
+
+                beforeSend: function () {
+                    $("#spinner").show();
+                },
+                error: function (XMLHttpRequest) {
+                    $("#spinner").hide();
+                    $("#result").show();
+                    if (XMLHttpRequest.status === 404) {
+                        $("#result").append(
+                            '<span class="text-danger">شماره موبایل مورد نظر یافت نشد. کیبورد گوشی را انگلیسی کرده و مجددا تلاش کنید. در صورتیکه شماره موبایل صحیح وارد شده با تلفن های باتری پیک برای پشتیبانی تماس بگیرید</span>');
+                        $("#manual").show();
+
+                    }
+                    else
+                        $("#result").append('status:' + XMLHttpRequest.status + ', status text: ' + XMLHttpRequest.statusText);
+                },
+                success: function (data) {
+                    console.log(data);
+                    $('#title').html(data.data.name + ' عزیز,');
+                    var result =
+
+                        '<p><strong>نام:  &nbsp;</strong>'
+                        + (data.data.carDtos[0].isCompany ? '<a style="text-decoration: none;color:Blue" href="KhodroService.html?m=' + phone + '">' + data.data.name + '</a>' : data.data.name) +
+                        '</p><p><strong>شماره تماس:  &nbsp;</strong>' + data.data.phone +
+                        '</p><p><strong>آدرس:  &nbsp;</strong>' + data.data.address +
+                        '</p><p><hr></p>';
+
+                    for (var i = 0; i < data.data.carDtos.length; i++) {
+
+                        result +=
+
+                            '</p><p><strong>ماشین:  &nbsp;</strong>' + data.data.carDtos[i].make + ' ' + (data.data.carDtos[i].isCompany ? ' پلاک [ ' + data.data.carDtos[i].comment + ' ]' : '') +
+                            '</p><p><strong>باتری:  &nbsp;</strong>' + data.data.carDtos[i].battery +
+                            '</p><p><strong>تاریخ خرید: &nbsp;</strong>' + data.data.carDtos[i].purchaseDate +
+                            '</p><p><strong>تاریخ اتمام گارانتی:  &nbsp;</strong>' + data.data.carDtos[i].expire +
+                            '</p><p><strong> وضعیت باتری:  &nbsp;</strong>' + data.data.carDtos[i].status +
+                            '</p><p><strong> سن باتری:  &nbsp;</strong>' + data.data.carDtos[i].batteryAge + '&nbsp;روز' +
+                            '</p><p><strong> تاریخ بهینه تعویض:  &nbsp;</strong>' + data.data.carDtos[i].replacementDate +
+                            '</p><p><hr></p>';
+                    }
+
+
+                    $("#spinner").hide();
+                    $("#result").show().append(result);
+                },
+                complete: function () {
+                },
+            });
+
+        }
+    </script>
+
+
+
+</body>
+</html>
