@@ -1,8 +1,8 @@
 [
   {
-    "outputFileName": "UPS.min.html",
+    "outputFileName": "قیمت-باتری-یو پی اس.min.html",
     "inputFiles": [
-      "UPS.html"
+      "قیمت-باتری-یو پی اس.html"
     ]
   },
   {
@@ -12,39 +12,39 @@
     ]
   },
   {
-    "outputFileName": "Aras.min.html",
+    "outputFileName": "قیمت-باتری-ارس.min.html",
     "inputFiles": [
-      "Aras.html"
+      "قیمت-باتری-ارس.html"
     ]
   },
   {
-    "outputFileName": "AzarBattery.min.html",
+    "outputFileName": "قیمت-باتری-آذر.min.html",
     "inputFiles": [
-      "AzarBattery.html"
+      "قیمت-باتری-آذر.html"
     ]
   },
   {
-    "outputFileName": "BatteryFaults.min.html",
+    "outputFileName": "Blog/خرابی-باتری.min.html",
     "inputFiles": [
-      "BatteryFaults.html"
+      "Blog/خرابی-باتری.html"
     ]
   },
   {
-    "outputFileName": "Borna-Battery.min.html",
+    "outputFileName": "قیمت-باتری-برنا.min.html",
     "inputFiles": [
-      "Borna-Battery.html"
+      "قیمت-باتری-برنا.html"
     ]
   },
   {
-    "outputFileName": "Delkor.min.html",
+    "outputFileName": "قیمت-باتری-دلکور.min.html",
     "inputFiles": [
-      "Delkor.html"
+      "قیمت-باتری-دلکور.html"
     ]
   },
   {
-    "outputFileName": "Global.min.html",
+    "outputFileName": "قیمت-باتری-گلوبال.min.html",
     "inputFiles": [
-      "Global.html"
+      "قیمت-باتری-گلوبال.html"
     ]
   },
   {
@@ -54,309 +54,303 @@
     ]
   },
   {
-    "outputFileName": "KBS.min.html",
+    "outputFileName": "Blog/مراقبت-از-باتری-ماشین.min.html",
     "inputFiles": [
-      "KBS.html"
+      "Blog/مراقبت-از-باتری-ماشین.html"
     ]
   },
   {
-    "outputFileName": "Maintenance.min.html",
+    "outputFileName": "قیمت-باتری-نیروگستران.min.html",
     "inputFiles": [
-      "Maintenance.html"
+      "قیمت-باتری-نیروگستران.html"
     ]
   },
   {
-    "outputFileName": "NirooGostaran.min.html",
+    "outputFileName": "قیمت-باتری-ماشین.min.html",
     "inputFiles": [
-      "NirooGostaran.html"
+      "قیمت-باتری-ماشین.html"
     ]
   },
   {
-    "outputFileName": "Orbital.min.html",
+    "outputFileName": "Blog/شارژ-باتری-ماشین.min.html",
     "inputFiles": [
-      "Orbital.html"
+      "Blog/شارژ-باتری-ماشین.html"
     ]
   },
   {
-    "outputFileName": "price.min.html",
+    "outputFileName": "قیمت-باتری-صبا.min.html",
     "inputFiles": [
-      "price.html"
+      "قیمت-باتری-صبا.html"
     ]
   },
   {
-    "outputFileName": "Recharge.min.html",
+    "outputFileName": "قیمت-باتری-سولیت.min.html",
     "inputFiles": [
-      "Recharge.html"
+      "قیمت-باتری-سولیت.html"
     ]
   },
   {
-    "outputFileName": "Saba.min.html",
+    "outputFileName": "انتخاب-باتری-ماشین.min.html",
     "inputFiles": [
-      "Saba.html"
+      "انتخاب-باتری-ماشین.html"
     ]
   },
   {
-    "outputFileName": "Solit.min.html",
+    "outputFileName": "Blog/اطلاعات-مفید-باتری-ماشین.min.html",
     "inputFiles": [
-      "Solit.html"
+      "Blog/اطلاعات-مفید-باتری-ماشین.html"
     ]
   },
   {
-    "outputFileName": "SOS.min.html",
+    "outputFileName": "Cars/باتری-مناسب-بایک.min.html",
     "inputFiles": [
-      "SOS.html"
+      "Cars/باتری-مناسب-بایک.html"
     ]
   },
   {
-    "outputFileName": "SuitableBattery.min.html",
+    "outputFileName": "Cars/باتری-مناسب-بنز.min.html",
     "inputFiles": [
-      "SuitableBattery.html"
+      "Cars/باتری-مناسب-بنز.html"
     ]
   },
   {
-    "outputFileName": "UsefulInfo.min.html",
+    "outputFileName": "Cars/باتری-مناسب-بسترن.min.html",
     "inputFiles": [
-      "UsefulInfo.html"
+      "Cars/باتری-مناسب-بسترن.html"
     ]
   },
   {
-    "outputFileName": "Cars/Baic.min.html",
+    "outputFileName": "Cars/باتری-مناسب-بی ام و.min.html",
     "inputFiles": [
-      "Cars/Baic.html"
+      "Cars/باتری-مناسب-بی ام و.html"
     ]
   },
   {
-    "outputFileName": "Cars/Benz.min.html",
+    "outputFileName": "Cars/باتری-مناسب-برلیانس.min.html",
     "inputFiles": [
-      "Cars/Benz.html"
+      "Cars/باتری-مناسب-برلیانس.html"
     ]
   },
   {
-    "outputFileName": "Cars/Bestern.min.html",
+    "outputFileName": "Cars/باتری-مناسب-بی وای دی.min.html",
     "inputFiles": [
-      "Cars/Bestern.html"
+      "Cars/باتری-مناسب-بی وای دی.html"
     ]
   },
   {
-    "outputFileName": "Cars/BMW.min.html",
+    "outputFileName": "Cars/باتری-مناسب-چانگان.min.html",
     "inputFiles": [
-      "Cars/BMW.html"
+      "Cars/باتری-مناسب-چانگان.html"
     ]
   },
   {
-    "outputFileName": "Cars/Brilliance.min.html",
+    "outputFileName": "Cars/باتری-مناسب-چری.min.html",
     "inputFiles": [
-      "Cars/Brilliance.html"
+      "Cars/باتری-مناسب-چری.html"
     ]
   },
   {
-    "outputFileName": "Cars/BYD.min.html",
+    "outputFileName": "Cars/باتری-مناسب-سیتروین.min.html",
     "inputFiles": [
-      "Cars/BYD.html"
+      "Cars/باتری-مناسب-سیتروین.html"
     ]
   },
   {
-    "outputFileName": "Cars/Changan.min.html",
+    "outputFileName": "Cars/باتری-مناسب-دوو.min.html",
     "inputFiles": [
-      "Cars/Changan.html"
+      "Cars/باتری-مناسب-دوو.html"
     ]
   },
   {
-    "outputFileName": "Cars/Chery.min.html",
+    "outputFileName": "Cars/باتری-مناسب-دانگ فنگ.min.html",
     "inputFiles": [
-      "Cars/Chery.html"
+      "Cars/باتری-مناسب-دانگ فنگ.html"
     ]
   },
   {
-    "outputFileName": "Cars/Citroen.min.html",
+    "outputFileName": "Cars/باتری-مناسب-فیات.min.html",
     "inputFiles": [
-      "Cars/Citroen.html"
+      "Cars/باتری-مناسب-فیات.html"
     ]
   },
   {
-    "outputFileName": "Cars/Daewoo.min.html",
+    "outputFileName": "Cars/باتری-مناسب-جیلی.min.html",
     "inputFiles": [
-      "Cars/Daewoo.html"
+      "Cars/باتری-مناسب-جیلی.html"
     ]
   },
   {
-    "outputFileName": "Cars/Dongfeng.min.html",
+    "outputFileName": "Cars/باتری-مناسب-گریت وال.min.html",
     "inputFiles": [
-      "Cars/Dongfeng.html"
+      "Cars/باتری-مناسب-گریت وال.html"
     ]
   },
   {
-    "outputFileName": "Cars/Fiat.min.html",
+    "outputFileName": "Cars/باتری-مناسب-هایما.min.html",
     "inputFiles": [
-      "Cars/Fiat.html"
+      "Cars/باتری-مناسب-هایما.html"
     ]
   },
   {
-    "outputFileName": "Cars/Geely.min.html",
+    "outputFileName": "Cars/باتری-مناسب-هوندا.min.html",
     "inputFiles": [
-      "Cars/Geely.html"
+      "Cars/باتری-مناسب-هوندا.html"
     ]
   },
   {
-    "outputFileName": "Cars/Greatwall.min.html",
+    "outputFileName": "Cars/باتری-مناسب-هیوندا.min.html",
     "inputFiles": [
-      "Cars/Greatwall.html"
+      "Cars/باتری-مناسب-هیوندا.html"
     ]
   },
   {
-    "outputFileName": "Cars/Haima.min.html",
+    "outputFileName": "Cars/باتری-مناسب-ایران خودرو.min.html",
     "inputFiles": [
-      "Cars/Haima.html"
+      "Cars/باتری-مناسب-ایران خودرو.html"
     ]
   },
   {
-    "outputFileName": "Cars/Honda.min.html",
+    "outputFileName": "Cars/باتری-مناسب-جک.min.html",
     "inputFiles": [
-      "Cars/Honda.html"
+      "Cars/باتری-مناسب-جک.html"
     ]
   },
   {
-    "outputFileName": "Cars/Hyundai.min.html",
+    "outputFileName": "Cars/باتری-مناسب-کیا.min.html",
     "inputFiles": [
-      "Cars/Hyundai.html"
+      "Cars/باتری-مناسب-کیا.html"
     ]
   },
   {
-    "outputFileName": "Cars/IranKhodro.min.html",
+    "outputFileName": "Cars/باتری-مناسب-لکسوس.min.html",
     "inputFiles": [
-      "Cars/IranKhodro.html"
+      "Cars/باتری-مناسب-لکسوس.html"
     ]
   },
   {
-    "outputFileName": "Cars/Jac.min.html",
+    "outputFileName": "Cars/باتری-مناسب-لیفان.min.html",
     "inputFiles": [
-      "Cars/Jac.html"
+      "Cars/باتری-مناسب-لیفان.html"
     ]
   },
   {
-    "outputFileName": "Cars/Kia.min.html",
+    "outputFileName": "Cars/باتری-مناسب-مزدا.min.html",
     "inputFiles": [
-      "Cars/Kia.html"
+      "Cars/باتری-مناسب-مزدا.html"
     ]
   },
   {
-    "outputFileName": "Cars/Lexus.min.html",
+    "outputFileName": "Cars/باتری-مناسب-ام جی.min.html",
     "inputFiles": [
-      "Cars/Lexus.html"
+      "Cars/باتری-مناسب-ام جی.html"
     ]
   },
   {
-    "outputFileName": "Cars/Lifan.min.html",
+    "outputFileName": "Cars/باتری-مناسب-میتسوبیشی.min.html",
     "inputFiles": [
-      "Cars/Lifan.html"
+      "Cars/باتری-مناسب-میتسوبیشی.html"
     ]
   },
   {
-    "outputFileName": "Cars/Mazda.min.html",
+    "outputFileName": "Cars/باتری-مناسب-ام وی ام.min.html",
     "inputFiles": [
-      "Cars/Mazda.html"
+      "Cars/باتری-مناسب-ام وی ام.html"
     ]
   },
   {
-    "outputFileName": "Cars/MG.min.html",
+    "outputFileName": "Cars/باتری-مناسب-نیسان.min.html",
     "inputFiles": [
-      "Cars/MG.html"
+      "Cars/باتری-مناسب-نیسان.html"
     ]
   },
   {
-    "outputFileName": "Cars/Mitsobishi.min.html",
+    "outputFileName": "Cars/باتری-مناسب-اپل.min.html",
     "inputFiles": [
-      "Cars/Mitsobishi.html"
+      "Cars/باتری-مناسب-اپل.html"
     ]
   },
   {
-    "outputFileName": "Cars/MVM.min.html",
+    "outputFileName": "Cars/باتری-مناسب-پارس خودرو.min.html",
     "inputFiles": [
-      "Cars/MVM.html"
+      "Cars/باتری-مناسب-پارس خودرو.html"
     ]
   },
   {
-    "outputFileName": "Cars/Nissan.min.html",
+    "outputFileName": "Cars/باتری-مناسب-رنو.min.html",
     "inputFiles": [
-      "Cars/Nissan.html"
+      "Cars/باتری-مناسب-رنو.html"
     ]
   },
   {
-    "outputFileName": "Cars/Opel.min.html",
+    "outputFileName": "Cars/باتری-مناسب-پراید.min.html",
     "inputFiles": [
-      "Cars/Opel.html"
+      "Cars/باتری-مناسب-پراید.html"
     ]
   },
   {
-    "outputFileName": "Cars/ParsKhodro.min.html",
+    "outputFileName": "Cars/باتری-مناسب-پروتون.min.html",
     "inputFiles": [
-      "Cars/ParsKhodro.html"
+      "Cars/باتری-مناسب-پروتون.html"
     ]
   },
   {
-    "outputFileName": "Cars/Pegeout.min.html",
+    "outputFileName": "Cars/باتری-مناسب-رنو.min.html",
     "inputFiles": [
-      "Cars/Pegeout.html"
+      "Cars/باتری-مناسب-رنو.html"
     ]
   },
   {
-    "outputFileName": "Cars/Pride.min.html",
+    "outputFileName": "Cars/باتری-مناسب-سایپا.min.html",
     "inputFiles": [
-      "Cars/Pride.html"
+      "Cars/باتری-مناسب-سایپا.html"
     ]
   },
   {
-    "outputFileName": "Cars/Proton.min.html",
+    "outputFileName": "Cars/باتری-مناسب-سمند.min.html",
     "inputFiles": [
-      "Cars/Proton.html"
+      "Cars/باتری-مناسب-سمند.html"
     ]
   },
   {
-    "outputFileName": "Cars/Renault.min.html",
+    "outputFileName": "Cars/باتری-مناسب-سانگ یانگ.min.html",
     "inputFiles": [
-      "Cars/Renault.html"
+      "Cars/باتری-مناسب-سانگ یانگ.html"
     ]
   },
   {
-    "outputFileName": "Cars/Saipa.min.html",
+    "outputFileName": "Cars/باتری-مناسب-سوزوکی.min.html",
     "inputFiles": [
-      "Cars/Saipa.html"
+      "Cars/باتری-مناسب-سوزوکی.html"
     ]
   },
   {
-    "outputFileName": "Cars/Samand.min.html",
+    "outputFileName": "Cars/باتری-مناسب-تویوتا.min.html",
     "inputFiles": [
-      "Cars/Samand.html"
+      "Cars/باتری-مناسب-تویوتا.html"
     ]
   },
   {
-    "outputFileName": "Cars/Ssangyang.min.html",
+    "outputFileName": "Cars/باتری-مناسب-فولکس.min.html",
     "inputFiles": [
-      "Cars/Ssangyang.html"
+      "Cars/باتری-مناسب-فولکس.html"
     ]
   },
   {
-    "outputFileName": "Cars/Suzuki.min.html",
+    "outputFileName": "Cars/باتری-مناسب-پژو.min.html",
     "inputFiles": [
-      "Cars/Suzuki.html"
+      "Cars/باتری-مناسب-پژو.html"
     ]
   },
   {
-    "outputFileName": "Cars/Toyota.min.html",
+    "outputFileName": "Cars/باتری-مناسب-سیتروئن.min.html",
     "inputFiles": [
-      "Cars/Toyota.html"
+      "Cars/باتری-مناسب-سیتروئن.html"
     ]
   },
   {
-    "outputFileName": "Cars/Wolks.min.html",
+    "outputFileName": "قیمت-باتری-آکو.min.html",
     "inputFiles": [
-      "Cars/Wolks.html"
-    ]
-  },
-  {
-    "outputFileName": "Aco.min.html",
-    "inputFiles": [
-      "Aco.html"
+      "قیمت-باتری-آکو.html"
     ]
   },
   {
@@ -366,15 +360,15 @@
     ]
   },
   {
-    "outputFileName": "SepahanBattery.min.html",
+    "outputFileName": "قیمت-باتری-سپاهان.min.html",
     "inputFiles": [
-      "SepahanBattery.html"
+      "قیمت-باتری-سپاهان.html"
     ]
   },
   {
-    "outputFileName": "PasargadSanat.min.html",
+    "outputFileName": "قیمت-باتری-پاسارگاد.min.html",
     "inputFiles": [
-      "PasargadSanat.html"
+      "قیمت-باتری-پاسارگاد.html"
     ]
   },
   {
@@ -432,9 +426,9 @@
     ]
   },
   {
-    "outputFileName": "Vistabattery.min.html",
+    "outputFileName": "قیمت-باتری-ویستا.min.html",
     "inputFiles": [
-      "Vistabattery.html"
+      "قیمت-باتری-ویستا.html"
     ]
   }
 ]
